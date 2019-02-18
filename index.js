@@ -3,7 +3,6 @@ const fetch = require('node-fetch')
 
 function getItem(itemID, tld) {
     const url = `http://www.newegg.${tld}/Product/Product.aspx?Item=${itemID}`
-    console.log('Fetching: ', url)
 
     return new Promise( (resolve, reject) => {
         fetch(url)

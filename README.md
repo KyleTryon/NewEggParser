@@ -25,3 +25,7 @@ The result will return an item like so:
   price: 'Product Price',
   currency: 'Country Code' }
 ```
+
+Accepting pull requests: [On Github](https://github.com/KyleTryon/NewEggParser)
+
+Interested in development and PC gaming? Join the TechSquidTV Discord channel. [https://discordapp.com/invite/HvjfrT](https://discordapp.com/invite/HvjfrT)
